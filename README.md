@@ -10,7 +10,7 @@ I created this project to explore various architectures aimed at image classific
 * Fully Convolutional Network
 * VGG16 Transfer Learning Network
 
-** To see model details run ```python model	_and_train.py --arch <NAME> --summary```
+** To see model details run ```python model_and_train.py --arch <NAME> --summary```
 
 #### Results
 - Deep CNN model had highest test accuracy of 65%
